@@ -1,1 +1,0 @@
-# lojaIFC2info2
